@@ -1,0 +1,6 @@
+#Installing the discord bot module
+pip install discord
+#Installing the requests module to pull from sites
+pip install requests
+#Installing the lxml module to pull the HTML code from a site
+pip install lxml
