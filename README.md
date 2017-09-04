@@ -1,1 +1,1 @@
-# HpJnpmT2wxm9ue2ncEyr
+This project contains the required modules, as well as the .py file to run a discord bot! The bot comes pre-loaded with several commands, which can be accessed in discord by typing -help. This code is ready out of the box to be used, no real coding needed. 
